@@ -6,6 +6,8 @@ jungle
 tiger
 a girl
 a small boy
+home
+lion
 
 
 
